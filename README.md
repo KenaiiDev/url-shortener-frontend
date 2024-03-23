@@ -1,10 +1,10 @@
 # URL SHORTENER
 
-A simple url shortening application build it with NextJS
+A simple url shortening application build it with ReactJS
 
 ## DESCRIPTION
 
-This project is a simple URL shortener developed using NextJS. It allows users to input a long URL and generate a shorter, more shareable version.
+This project is a simple URL shortener developed using ReactJS. It allows users to input a long URL and generate a shorter, more shareable version.
 
 ## PREREQUISITES
 
