@@ -35,6 +35,10 @@ cp .env.example .env
 1. Run the application in development mode: `npm run dev`
 2. Open your browser and navigate to `http://localhost:3000` to use it.
 
+## LIVE
+
+You can see the application running in the following [link](https://url-shortener-frontend-six.vercel.app/)
+
 ## CONTRIBUTIONS
 
 Contributions are welcome! If you find bugs or have suggestions, please open an issue or submit a pull request.
